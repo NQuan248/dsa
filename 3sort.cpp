@@ -41,8 +41,6 @@ void bubblesort(int arr[], int n) {
         print(arr, n);
     }
 }
-
-// ===== Hàm main =====
 int main() {
     int arr[] = {3,10,1,23,103,34,17,53,64,71};
     int n = sizeof(arr) / sizeof(arr[0]);
